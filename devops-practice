@@ -1,0 +1,5 @@
+echo "I am a DevOps Engineer" > status.txt
+git add status.txt
+git commit -m "added my status file"
+  git pull
+  
